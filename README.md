@@ -52,7 +52,8 @@ game-day-notifications_terraform/
 
 ### **Clone the Repository**
 ```bash
-git clone https://github.com/ifeanyiro9/game-day-notifications.git
+git clone https://github.com/adesegunasunmo/game-day-notifications.git
+cd game-day-notifications
 cd game-day-notifications
 ```
 
